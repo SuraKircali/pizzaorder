@@ -1,2 +1,2 @@
 # pizzaorder
-Akbank Python Bootcamp Pizza Sipariş Sistemi Proje Teslimi
+Global AI Hub ve Akbank işbirliğinde hazırlanan Python Bootcamp için: Pizza Sipariş Sistemi Proje Teslimi
